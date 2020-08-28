@@ -33,6 +33,56 @@
   </url>
   
   <url>
+    <loc>https://m0hammadl.github.io/authors/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/categories/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/post/eccb/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/author/mohammad-lotfollahi/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/category/news/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/post/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tag/publication/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tags/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tag/talk/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tag/trvae/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://m0hammadl.github.io/publication-type/1/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
@@ -54,11 +104,6 @@
   
   <url>
     <loc>https://m0hammadl.github.io/tag/source-themes/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/tags/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,16 +133,6 @@
   </url>
   
   <url>
-    <loc>https://m0hammadl.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://m0hammadl.github.io/publication/deep_packet/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
   </url>
@@ -105,21 +140,6 @@
   <url>
     <loc>https://m0hammadl.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/author/mohammad-lotfollahi/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,42 +178,11 @@
   </url>
   
   <url>
-    <loc>https://m0hammadl.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://m0hammadl.github.io/author/lotfollahi-et-al./</loc>
   </url>
   
   <url>
     <loc>https://m0hammadl.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/author/lotfollahi-et-al./</loc>
   </url>
   
 </urlset>
