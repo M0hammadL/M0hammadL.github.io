@@ -5,12 +5,20 @@
     <link>https://m0hammadl.github.io/tag/source-themes/</link>
       <atom:link href="https://m0hammadl.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Source Themes</title>
       <link>https://m0hammadl.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Query to reference single-cell integration with transfer learning</title>
+      <link>https://m0hammadl.github.io/publication/scarches/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/scarches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compositional perturbation autoencoder for single-cell response modeling </title>
@@ -25,14 +33,6 @@
       <link>https://m0hammadl.github.io/publication/disentalgment/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://m0hammadl.github.io/publication/disentalgment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Query to reference single-cell integration with transfer learning</title>
-      <link>https://m0hammadl.github.io/publication/scarches/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://m0hammadl.github.io/publication/scarches/</guid>
       <description></description>
     </item>
     
