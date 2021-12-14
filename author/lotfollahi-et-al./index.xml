@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Query to reference single-cell integration with transfer learning</title>
+      <title>Multigrate: single-cell multi-omic data integration </title>
+      <link>https://m0hammadl.github.io/publication/multigrate/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/multigrate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping single-cell data to reference atlases by transfer learning</title>
       <link>https://m0hammadl.github.io/publication/scarches/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://m0hammadl.github.io/publication/scarches/</guid>
