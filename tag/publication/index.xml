@@ -5,12 +5,33 @@
     <link>https://m0hammadl.github.io/tag/publication/</link>
       <atom:link href="https://m0hammadl.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>publication</title>
       <link>https://m0hammadl.github.io/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>New preprint on biologically informed deep learning to infer gene program</title>
+      <link>https://m0hammadl.github.io/post/expimap/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/expimap/</guid>
+      <description>&lt;p&gt;Excited to share our new approach, 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2022.02.05.479217v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;expiMap&lt;/a&gt;, to learn gene programs (GP) activity from single-cells &amp;ldquo;biologically informed deep learning&amp;rdquo;.We add prior knowledge while learning new cellular circuits,
+going beyond data integration and towards interpretability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scArches is on the cover of Nature Biotechnology</title>
+      <link>https://m0hammadl.github.io/post/nbt/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/nbt/</guid>
+      <description>&lt;p&gt;Great news about 
+&lt;a href=&#34;https://www.nature.com/articles/s41587-021-01001-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scArches&lt;/a&gt;, we have made it to the January issue of Nature Biotechnology.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Compositional Perturbation Autoencoders (CPA) in colab with FACEBOOK AI</title>
