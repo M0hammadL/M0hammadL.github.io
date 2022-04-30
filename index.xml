@@ -77,6 +77,20 @@
     </item>
     
     <item>
+      <title>Spotlight at Machine Learning for Drug Discovery at ICLR 2022 </title>
+      <link>https://m0hammadl.github.io/post/mldd/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/mldd/</guid>
+      <description>&lt;p&gt;Our paper titled  
+&lt;a href=&#34;https://openreview.net/forum?id=Wz9OtQYk_A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predicting single-cell perturbation responses for unseen drugs&lt;/a&gt;
+is accepted as spotlight talk at MLDD 2022. This paper augments my previous work 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.04.14.439903v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPA&lt;/a&gt;
+with a molecular representation to predict unseen drugs. We additionally devised
+a transfer learning approach to leverage Bulk RNA-seq data to compensate for scarce data problems at the single-cell level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New preprint on biologically informed deep learning to infer gene program</title>
       <link>https://m0hammadl.github.io/post/expimap/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>

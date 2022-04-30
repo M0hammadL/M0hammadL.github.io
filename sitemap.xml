@@ -34,17 +34,42 @@
   
   <url>
     <loc>https://m0hammadl.github.io/authors/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://m0hammadl.github.io/categories/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://m0hammadl.github.io/author/mohammad-lotfollahi/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <loc>https://m0hammadl.github.io/author/mo-lotfollahi/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/category/news/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/post/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tag/publication/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/post/mldd/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m0hammadl.github.io/tags/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,27 +78,7 @@
   </url>
   
   <url>
-    <loc>https://m0hammadl.github.io/category/news/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/post/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/tag/publication/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://m0hammadl.github.io/post/nbt/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/tags/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,10 +228,6 @@
   
   <url>
     <loc>https://m0hammadl.github.io/author/yang-et-al./</loc>
-  </url>
-  
-  <url>
-    <loc>https://m0hammadl.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
