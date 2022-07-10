@@ -5,12 +5,43 @@
     <link>https://m0hammadl.github.io/author/mo-lotfollahi/</link>
       <atom:link href="https://m0hammadl.github.io/author/mo-lotfollahi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mo Lotfollahi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mo Lotfollahi</title>
       <link>https://m0hammadl.github.io/author/mo-lotfollahi/</link>
     </image>
+    
+    <item>
+      <title>treeArches for learning cell-type hierarchies </title>
+      <link>https://m0hammadl.github.io/post/treearches/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/treearches/</guid>
+      <description>&lt;p&gt;I am excited to share our new work, we tackled: 1)
+how to learn a harmonized cell-type hierarchy/taxonomy across many studies
+with different annotations, 2) how to automatically identify novel cell states (e.g. disease)
+when mapping new query data.  We use transfer learning and hierarchical classifiers to build and update the hierarchies when new datasets are added. If a population is identified to match reference populations, it will be added to the same level o.w either
+as a subpopulation or a new state.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;See twitter thread here: 
+&lt;a href=&#34;https://twitter.com/Mohlotf/status/1545328933247373312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/Mohlotf/status/1545328933247373312&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Link to the paper: 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2022.07.07.499109v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2022.07.07.499109v1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Link to the code and tutorials: 
+&lt;a href=&#34;https://scarches.readthedocs.io/en/latest/treeArches_pbmc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scarches.readthedocs.io/en/latest/treeArches_pbmc.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;See advance guide how to use human lung cel atlas to identify disease states: 
+&lt;a href=&#34;https://scarches.readthedocs.io/en/latest/treeArches_identifying_new_ct.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scarches.readthedocs.io/en/latest/treeArches_identifying_new_ct.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Spotlight at Machine Learning for Drug Discovery at ICLR 2022 </title>
