@@ -5,12 +5,40 @@
     <link>https://m0hammadl.github.io/category/news/</link>
       <atom:link href="https://m0hammadl.github.io/category/news/index.xml" rel="self" type="application/rss+xml" />
     <description>news</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>news</title>
       <link>https://m0hammadl.github.io/category/news/</link>
     </image>
+    
+    <item>
+      <title>New paper accepted at NeurIPS 2022   </title>
+      <link>https://m0hammadl.github.io/post/chemcpa/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/chemcpa/</guid>
+      <description>&lt;p&gt;Our paper titled  
+&lt;a href=&#34;https://openreview.net/forum?id=Wz9OtQYk_A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predicting single-cell perturbation responses for unseen drugs&lt;/a&gt;
+is now accepted as at NeurIPS 2022. In this we add chemical graph encoder to my previous work 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.04.14.439903v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPA&lt;/a&gt; to predict gene expression response to unseen drugs not observed during training.
+We additionally devised a transfer learning approach to leverage Bulk RNA-seq data to compensate for scarce data problems at the single-cell level which
+improve the prediction accuracy. Congrats to all collaborators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scArches now can map scRNAseq data to spatial references</title>
+      <link>https://m0hammadl.github.io/post/spatial/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/spatial/</guid>
+      <description>&lt;p&gt;I am excited to announce the first spatial reference mapping in scArches powered by SageNet to map dissociated single cells scRNAseq into a common coordinate framework
+using one or more spatially resolved reference datasets.
+Try the tutorials 
+&lt;a href=&#34;https://scarches.readthedocs.io/en/latest/SageNet_mouse_embryo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+SageNet is a robust graph neural network approach that maps scRNaseq datasets to their hypothetical tissue of origin predicting the spatial cell-cell distances for the query cells.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>treeArches for learning cell-type hierarchies </title>
