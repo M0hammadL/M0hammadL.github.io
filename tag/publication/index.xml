@@ -5,12 +5,25 @@
     <link>https://m0hammadl.github.io/tag/publication/</link>
       <atom:link href="https://m0hammadl.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>publication</title>
       <link>https://m0hammadl.github.io/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>Single-cell population level data integration </title>
+      <link>https://m0hammadl.github.io/post/scpoli/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/scpoli/</guid>
+      <description>&lt;p&gt;Excited to share our new work 
+&lt;a href=&#34;https://t.co/I4hqJgUTEC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Population-level integration of single-cell datasets enables multi-scale analysis across samples&lt;/a&gt;
+. We present scPoli to learn representation for cell types and samples that can be updated with new cells and samples. Please
+read the 
+&lt;a href=&#34;https://twitter.com/Mohlotf/status/1597663171875319809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweetorial&lt;/a&gt; for full details.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New preprint on integrating T-cell receptor sequences and phenotype (scRNA-seq)</title>
@@ -19,7 +32,8 @@
       <guid>https://m0hammadl.github.io/post/mvtcr/</guid>
       <description>&lt;p&gt;Proud to present mvTCR, integrating T-cell receptor sequences (α/β chain learned via transformers) and phenotype (scRNA-seq)  jointly measured (e.g., Immune Profiling
 ) to assemble (and continually update) multi-omic T-cell atlases.&lt;/p&gt;
-&lt;p&gt;For a short read my tweetorial here [https://twitter.com/Mohlotf/status/1585704556809396225].&lt;/p&gt;
+&lt;p&gt;For a short read my tweetorial 
+&lt;a href=&#34;https://twitter.com/Mohlotf/status/1585704556809396225&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The preprint is available on 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.06.24.449733v2?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biorxiv&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The code can also be found in 
@@ -40,7 +54,7 @@ This was among the work done during my doctoral studies at
 Helmholtz Munich and Life science school at TUM.&lt;/p&gt;
 &lt;p&gt;Read the paper 
 &lt;a href=&#34;https://www.nature.com/articles/s41587-021-01001-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The code can also be found in 
+&lt;p&gt;The code can also be found at 
 &lt;a href=&#34;https://github.com/theislab/scarches&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
